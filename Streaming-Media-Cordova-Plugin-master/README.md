@@ -69,4 +69,7 @@ This plugin allows you to stream audio and video in a fullscreen, native player 
 
 ```
 ## 3、个人修改
-* 增加了安卓端视频断点续播功能。 var options = {position: time}； // 例：time: 1000，单位：毫秒。
+* 增加了安卓端视频断点续播功能。
+```
+var options = {position: time}； // 例：time: 1000，单位：毫秒。
+```
