@@ -3,7 +3,7 @@
 
 ### 这里的插件并非都是最新的，并且有些插件的某些功能可能有所改变。
 
-#### Streaming-Media-Cordova-Plugin-master
+#### 1、Streaming-Media-Cordova-Plugin-master
 ##### 增加了安卓端视频断点续播功能。 var options = {position: time}； // 例：time: 1000，单位：毫秒。
 
 
